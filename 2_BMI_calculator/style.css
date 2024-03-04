@@ -1,0 +1,42 @@
+.container {
+    width: 80vw;
+    background-color: cadetblue;
+    margin: auto;
+    padding: 20px;
+}
+
+.container h1 {
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.hero {
+    margin-left: 100px;
+}
+
+#height,
+#weight {
+    width: 150px;
+    margin-left: 10px;
+}
+
+.weight_guide {
+    margin-top: 50px;
+}
+
+#results {
+    font-size: 28px;
+    color: #fff;
+    margin: 50px;
+}
+
+button {
+    margin-top: 20px;
+    background-color: #fff;
+    color: #212121;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    padding: 7px 15px;
+    cursor: pointer;
+}
